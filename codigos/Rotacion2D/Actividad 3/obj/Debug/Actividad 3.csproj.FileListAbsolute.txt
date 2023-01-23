@@ -1,0 +1,10 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.pdb
