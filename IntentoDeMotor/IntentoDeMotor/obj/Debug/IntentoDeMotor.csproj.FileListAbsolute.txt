@@ -1,0 +1,10 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\bin\Debug\IntentoDeMotor.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\bin\Debug\IntentoDeMotor.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\bin\Debug\IntentoDeMotor.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\IntentoDeMotor\IntentoDeMotor\obj\Debug\IntentoDeMotor.pdb
