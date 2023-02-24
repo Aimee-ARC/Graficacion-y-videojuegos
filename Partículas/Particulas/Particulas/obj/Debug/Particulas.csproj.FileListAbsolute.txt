@@ -1,0 +1,10 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\bin\Debug\Particulas.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\bin\Debug\Particulas.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\bin\Debug\Particulas.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Particulas\Particulas\obj\Debug\Particulas.pdb

@@ -1,0 +1,11 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\bin\Debug\ParticulasConImagen.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\bin\Debug\ParticulasConImagen.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\bin\Debug\ParticulasConImagen.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\ParticulasConImagen\ParticulasConImagen\obj\Debug\ParticulasConImagen.Resource1.resources
