@@ -1,0 +1,10 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\bin\Debug\50Colision.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\bin\Debug\50Colision.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\bin\Debug\50Colision.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\50Colision.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\_50Colision.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\_50Colision.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\50Colision.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\50Colision.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\50Colision.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\50Colision\50Colision\obj\Debug\50Colision.pdb
