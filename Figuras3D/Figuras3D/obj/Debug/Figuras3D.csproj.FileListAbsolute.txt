@@ -1,0 +1,11 @@
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\bin\Debug\Figuras3D.exe.config
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\bin\Debug\Figuras3D.exe
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\bin\Debug\Figuras3D.pdb
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.csproj.AssemblyReference.cache
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.Form1.resources
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.Properties.Resources.resources
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.csproj.GenerateResource.cache
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.csproj.CoreCompileInputs.cache
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.exe
+C:\Users\Aimee\Desktop\otras cosas de la escuela\codigos videojuegos\Figuras3D\Figuras3D\obj\Debug\Figuras3D.pdb
