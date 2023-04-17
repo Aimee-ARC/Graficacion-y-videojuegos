@@ -1,0 +1,20 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\bin\Debug\LIVE_DEMO.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\OBJECT.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\OBJECT.OBJECT.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\OBJECT.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\OBJECT.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJ OPEN\obj\x86\Debug\LIVE_DEMO.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\bin\Debug\LIVE_DEMO.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\bin\Debug\LIVE_DEMO.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\OBJECT.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\OBJECT.OBJECT.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\OBJECT.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\OBJECT.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\OBJ OPEN(final)\OBJ OPEN\OBJECT3D\obj\x86\Debug\LIVE_DEMO.pdb
