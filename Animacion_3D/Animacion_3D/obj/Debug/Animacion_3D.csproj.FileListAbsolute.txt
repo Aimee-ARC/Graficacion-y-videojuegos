@@ -1,0 +1,10 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\bin\Debug\Animacion_3D.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\bin\Debug\Animacion_3D.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\bin\Debug\Animacion_3D.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\graf. y videojuegos\Animacion_3D\Animacion_3D\obj\Debug\Animacion_3D.pdb
